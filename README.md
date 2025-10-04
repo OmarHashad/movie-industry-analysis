@@ -5,9 +5,9 @@ Analyze U.S. movie data and build ML models to predict **Gross ($M)**.
 ## Project Structure
 ```
 movie-industry-analysis/
-├── data/                 # place Movies_US.csv here (not included)
-├── results/              # metrics & saved plots
-├── src/                  # scripts
+├── data/                 
+├── results/              
+├── src/                 
 ├── README.md
 └── requirements.txt
 ```
